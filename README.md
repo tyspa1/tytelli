@@ -1,15 +1,15 @@
-<img src="https://github.com/spadgenske/tyfone/blob/master/graphics/blacklogo.png">
+<img src="https://github.com/spadgenske/tytelli/blob/master/graphics/blacklogo.png">
 <br/>
-Hardware files for the tyfone. 
+Hardware files for the tytelli. 
 
 ###Files
-1. Hardware/typhone.sldasm is the complete tyfone assembly.
-2. Hardware/typhone-bottom.sldprt is the bottom part to be 3D printed.
-3. Hardware/typhone-top.sldprt is the top part and is another part to be 3D printed.
+1. Hardware/tytelli.sldasm is the complete tytelli assembly.
+2. Hardware/tytelli-bottom.sldprt is the bottom part to be 3D printed.
+3. Hardware/tytelli-top.sldprt is the top part and is another part to be 3D printed.
 
 .step and .stl versions also availible.
 
-The other .sldprt files are electronic boards for inside the tyfone. Everything made in SolidWorks 
+The other .sldprt files are electronic boards for inside the tytelli. Everything made in SolidWorks 
 Standard 2015. 
 
 copyright (c) 2015 Tyler Spadgenske
